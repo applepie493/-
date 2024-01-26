@@ -1,8 +1,9 @@
-# ToDolist
+# B（便利なコマンド）
 
-## 1.xebra.trade
-@xebratrade
-メタマスクとメールで認証 <br>
-12/29にdone
+## 1.ファイルの場所
+```
+locate <ファイル名>
+```
+
 
 ## 2.
