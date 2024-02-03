@@ -13,4 +13,5 @@ screen -S <スクリーン名>
 ## 3.展開
 ```
 sudo tar -C /root/lava -xzf <ファイル名>
+export PATH=~/lava/go/bin:$PATH
 ```
